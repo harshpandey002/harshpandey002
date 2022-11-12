@@ -16,15 +16,13 @@ Joined Github 3 years ago.
 
 Since then I pushed **2500**+ commits, opened **29**+ issues, submitted **100**+ pull requests, created **1** gist and contributed to **30**+ public repositories.
 
-[![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) 
-
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; At the moment working with NextJS, Solidity, Firebase, Thirdweb.
-- 👀 &nbsp; What I want to learn: WASM, Golang, Rust(should I?)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
+- 👀 &nbsp; What I want to learn: threejs, DeFi.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harshpandey002).
 - 👾 &nbsp; Fun fact: I get rejected in almost all interviews(wtf!).
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/harshpandey_002) or coding.harshp@gmail.com.
 - 🚀 &nbsp; I’m currently learning Blockchain Development with solidity.
