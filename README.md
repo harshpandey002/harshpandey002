@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpandey002/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshpandey_002)
-[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshpandey_002/)
+[![Dev.to Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshpandey_002/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhatvikrant.bhatvikrant&style=flat-square&color=0088cc)
 
@@ -14,7 +14,7 @@ Currently working as freelance dev at [BlockTrain](https://www.blocktrain.info/)
 
 Joined Github 3 years ago.
 
-Since then I pushed **5954**+ commits, opened **29**+ issues, submitted **221**+ pull requests, created **1** gists and contributed to **30** public repositories.
+Since then I pushed **2500**+ commits, opened **29**+ issues, submitted **100**+ pull requests, created **1** gist and contributed to **30**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) 
 
@@ -22,20 +22,20 @@ Since then I pushed **5954**+ commits, opened **29**+ issues, submitted **221**+
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, ReactNative, Firebase, Graphql, Apollo & Tailwind.
+- 🛠 &nbsp; At the moment working with NextJS, Solidity, Firebase, Thirdweb.
 - 👀 &nbsp; What I want to learn: WASM, Golang, Rust(should I?)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
-- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/vikrantbhat1022) or vik.bhat223@gmail.com.
+- 👾 &nbsp; Fun fact: I get rejected in almost all interviews(wtf!).
+- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/harshpandey_002) or coding.harshp@gmail.com.
+- 🚀 &nbsp; I’m currently learning Blockchain Development with solidity.
+<!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help. -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
-<!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love to explore new tech and build cool stuff with it.
+- 💻 &nbsp; I love to build user interfaces with cool animations.
 - 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: I love to play guitar and there is a 88% probability that I'll beat you in a badminton match :p
+- ⚡ &nbsp; Fun fact: There is a 88% probability that I'll beat you in a badminton and table tennis match :p
 
 ### Languages and Tools:
 
@@ -48,101 +48,5 @@ Since then I pushed **5954**+ commits, opened **29**+ issues, submitted **221**+
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-### Projects and Dev Stuff:
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhatvikrant&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatvikrant&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatvikrant&hide_border=true" />
-</details>
-
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/bhatvikrant/world-countries-capitals"><b>🗺 World countries capitals (WCC)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/world-countries-capitals?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/world-countries-capitals?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/world-countries-capitals?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/world-countries-capitals?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/bhatvikrant/world-countries-capitals?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/bhatvikrant/react-thumbnail-player"><b>🌇 React thumbnail player</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/react-thumbnail-player?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/react-thumbnail-player?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/react-thumbnail-player?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/react-thumbnail-player?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/bhatvikrant/react-thumbnail-player?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/bhatvikrant/react-native-expo-starterkit"><b>📲⚛️ React Native UI Kitten Starter Kit (Expo)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/react-native-expo-starterkit?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/react-native-expo-starterkit?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/react-native-expo-starterkit?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/react-native-expo-starterkit?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/bhatvikrant/react-native-expo-starterkit?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/bhatvikrant/nextjs-chakra-ui-ts-starter-kit"><b>☸️ NextJS + Chakra UI starter Kit (TS)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/nextjs-chakra-ui-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/nextjs-chakra-ui-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/nextjs-chakra-ui-ts-starter-kit?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/nextjs-chakra-ui-ts-starter-kit?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/bhatvikrant/nextjs-chakra-ui-ts-starter-kit?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/bhatvikrant/bhatvikrant"><b>🤓 bhatvikrant</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/bhatvikrant?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/bhatvikrant?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/bhatvikrant?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/bhatvikrant?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS Big Sur</li>
-	    <li><b>Laptop: </b> MacBook Pro (13-inch, M1, 2020)</li>
-            <li><b>Mouse: </b>Logitech MX master 3</li>
-	    <li><b>Keyboard: </b>Logitech K380</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Power user)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Daily.dev, Dev.to, Medium, Linkedin and Twitter.</li>
-	</ul>	
-</details>
-
-#
-
-<div align="center">
-
-### Let's become friends on [Twitter](https://twitter.com/vikrantbhat1022)!
-
-</div>
+### Let's become friends on [Twitter](https://twitter.com/harshpandey_002)!
