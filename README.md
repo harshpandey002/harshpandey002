@@ -3,7 +3,7 @@
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.harshkumarpandey.com/) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpandey002/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshpandey_002)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshpandey002)
 [![Dev.to Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshpandey_002/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=harshpandey002.harshpandey002&style=flat-square&color=0088cc)
@@ -24,7 +24,7 @@ Since then I pushed **2500**+ commits, opened **29**+ issues, submitted **100**+
 - 👀 &nbsp; What I want to learn: threejs, DeFi.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harshpandey002).
 - 👾 &nbsp; Fun fact: I get rejected in almost all interviews(wtf!).
-- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/harshpandey_002) or coding.harshp@gmail.com.
+- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/harshpandey002) or coding.harshp@gmail.com.
 - 🚀 &nbsp; I’m currently learning Blockchain Development with solidity.
 <!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help. -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
@@ -50,6 +50,6 @@ Since then I pushed **2500**+ commits, opened **29**+ issues, submitted **100**+
 
 <div align="center">
 
-### Let's become friends on [Twitter](https://twitter.com/harshpandey_002)!
+### Let's become friends on [Twitter](https://twitter.com/harshpandey002)!
 
 </div>
