@@ -21,11 +21,11 @@ Since then I pushed **2500**+ commits, opened **29**+ issues, submitted **100**+
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; At the moment working with NextJS, Solidity, Firebase, Thirdweb.
-- 👀 &nbsp; What I want to learn: threejs, DeFi.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harshpandey002).
-- 👾 &nbsp; Fun fact: I get rejected in almost all interviews(wtf!).
+- 👀 &nbsp; I am learning Smart Contract Development with solidity.
+- 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/harshpandey002) are genuine.
+- 👾 &nbsp; Fun fact: I get rejected in all interviews(wtf!).
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/harshpandey002) or coding.harshp@gmail.com.
-- 🚀 &nbsp; I’m currently learning Blockchain Development with solidity.
+- 🚀 &nbsp; My [Portfolio Website](https://www.harshkumarpandey.com/) is Dope AF!
 <!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help. -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
 ### My Absolute Favorites:
