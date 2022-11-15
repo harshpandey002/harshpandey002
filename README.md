@@ -23,6 +23,7 @@ Since then I pushed **2500**+ commits, opened **29**+ issues, submitted **100**+
 - 🛠 &nbsp; At the moment working with NextJS, Solidity, Firebase, Thirdweb.
 - 👀 &nbsp; I am learning Smart Contract Development with solidity.
 - 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/harshpandey002) are genuine.
+- 📝 &nbsp; I have 2 github accounts, [harshpandey002](https://github.com/harshpandey002) and [pandeyharsh1999](https://github.com/pandeyharsh1999).
 - 👾 &nbsp; Fun fact: I get rejected in all interviews(wtf!).
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/harshpandey002) or coding.harshp@gmail.com.
 - 🚀 &nbsp; My [Portfolio Website](https://www.harshkumarpandey.com/) is Dope AF!
