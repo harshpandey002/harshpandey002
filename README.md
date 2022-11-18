@@ -14,8 +14,6 @@ Currently working as freelance dev at [BlockTrain](https://www.blocktrain.info/)
 
 Joined Github 3 years ago.
 
-Since then I pushed **2500**+ commits, opened **29**+ issues, submitted **100**+ pull requests, created **1** gist and contributed to **30**+ public repositories.
-
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
 ### Talking about Personal Stuff:
