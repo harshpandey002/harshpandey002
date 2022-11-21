@@ -39,7 +39,6 @@ Joined Github 3 years ago.
 
 <a href="#"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=black&color=7952B3"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/></a>
@@ -47,6 +46,10 @@ Joined Github 3 years ago.
 <a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&labelColor=black&color=1CA1B8"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&&logoColor=white&labelColor=black&color=2E2E2E"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Etherjs-black?style=for-the-badge&logo=ethereum&&logoColor=white&labelColor=black&color=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&&logoColor=white&labelColor=black&color=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Hardhat-black?style=for-the-badge&logo=hardhat&&logoColor=white&labelColor=black&color=white"/></a>
+
 
 <a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a>
