@@ -1,48 +1,62 @@
-# Harsh Pandey
+# Hey, I'm Harsh
 
-Full-stack product engineer building polished web, mobile, trading, and Web3 products.
+I build things on the internet, sometimes for users, sometimes for traders, sometimes for my own oddly specific problems.
 
-[Portfolio](https://harshpandey.com) · [LinkedIn](https://www.linkedin.com/in/harshpandey002/) · [GitHub](https://github.com/harshpandey002) · [Email](mailto:coding.harshp@gmail.com)
+Mostly: React, Next.js, TypeScript, Expo, product UI, local-first data, realtime stuff, dashboards, and the occasional Web3 rabbit hole.
 
-I like taking fuzzy product ideas and turning them into software that feels fast, thoughtful, and reliable. My recent work spans React/Next.js apps, Expo mobile apps, local-first data flows, realtime systems, trading/order tooling, dashboards, and wallet-connected Web3 interfaces.
+[harshpandey.com](https://harshpandey.com) · [LinkedIn](https://www.linkedin.com/in/harshpandey002/) · [X/Twitter](https://twitter.com/harshpandey002) · [Email](mailto:coding.harshp@gmail.com)
 
-## Selected work
+## What I am usually up to
 
-| Project | What I built | Stack |
-| --- | --- | --- |
-| **Pouch** | Minimalist expense tracker with categories, tags, groups, budgets, calendar views, insights, CSV export, onboarding, and subscription/paywall flows. | Expo, React Native, TypeScript, SQLite, Drizzle, Zustand, RevenueCat |
-| **Algo Trading** | Single-tenant options execution desk for Zerodha Kite with live ticks, candle charts, server-side risk sizing, armed limit entries, stop-loss flows, and order reconciliation. | Next.js, React, TypeScript, Kite Connect, SSE, Jotai, Zustand, Sentry |
-| **LockWars** | Fantasy sports mobile app with auth, multi-step signup, lobbies, lineups, wallet flows, promotions, realtime chat, and matchup state. | Expo, React Native, TypeScript, Firebase, Socket.io, Zustand, Jotai |
-| **Forecast Dashboard** | Discord campaign dashboard for guild onboarding, channel setup, permissions checks, campaign threads, generation credits, and analytics export. | Next.js, TypeScript, Discord API, Prisma, Jotai, TanStack Table |
-| **shadcn Theme Generator** | Public design tool that generates shadcn-compatible light/dark CSS variables from a base color, with live previews and advanced controls. | Next.js, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Jotai |
-| **Numa Swap Interface** | Web3 swap UI for minting NUMA with rETH and redeeming rETH, including wallet connection, allowance checks, approvals, live contract reads, and transaction states. | Next.js, TypeScript, wagmi, viem, Jotai, Tailwind CSS |
+- Turning half-baked ideas into apps that feel surprisingly real.
+- Obsessing over tiny UI details that nobody asked for but everyone feels.
+- Building products around money, markets, wallets, data, and dashboards.
+- Making private tools because apparently I enjoy becoming my own product manager.
+- Writing notes when I finally understand something well enough to explain it.
 
-Some of my strongest projects are private because they are personal tools or client-style builds, but I can walk through architecture, tradeoffs, and code samples during interviews.
+## A few things from the workshop
 
-## Earlier work
+**Pouch**  
+A warm, minimalist expense tracker for mobile. Categories, tags, groups, budgets, calendar views, insights, CSV export, onboarding, trial/paywall flows, and local SQLite storage. Built with Expo, React Native, TypeScript, Drizzle, Zustand, NativeWind, and RevenueCat.
 
-- Built Web3 projects including a crowdfunding dApp, NFT marketplace, ERC20 token interface, and Push Protocol experiments.
-- Worked on BlockTrain, a blockchain education platform with articles, tutorials, courses, and project guides.
-- Worked at AppSecure on security-focused product interfaces, including bug bounty platform workflows.
-- Started freelancing in college with education and mentoring platforms, learning how to move from ambiguous requirements to shipped software.
+**Algo Trading**  
+A single-user options execution desk for Zerodha Kite. Live ticks, candle charts, option-chain picker, server-side risk sizing, armed limit entries, stop-loss placement, trail-to-breakeven, order reconciliation, and a lot of code whose job is to stay calm when money is moving.
 
-## Core stack
+**LockWars**  
+A fantasy sports mobile app with auth, signup flows, lobbies, lineups, wallet screens, promotions, realtime chat, and matchup state. Built with Expo, Firebase, Socket.io, Zustand, Jotai, and TypeScript.
 
-**Frontend:** React, Next.js, React Native, Expo, TypeScript, Tailwind CSS, shadcn/ui, Radix UI
+**Forecast Dashboard**  
+A Discord campaign dashboard for managing server onboarding, admin channels, bot permissions, campaign threads, generation credits, and analytics exports. Basically, the control room for a Discord-native product.
 
-**State and data:** Zustand, Jotai, React Query, Prisma, Drizzle, SQLite, MongoDB, Firebase
+**shadcn Theme Generator**  
+A public little design tool for generating shadcn-compatible light and dark CSS variables from a base color. Pick a color, tune it, preview components, copy the theme, move on with your life.
 
-**Systems:** REST APIs, WebSockets, SSE, auth flows, local-first storage, CSV/export flows, background reconciliation
+**Numa Swap Interface**  
+A Web3 swap UI for minting NUMA with rETH and redeeming rETH back. Wallet connection, allowance checks, approvals, live contract reads, network handling, and transaction states.
 
-**Web3:** Solidity, ethers.js, thirdweb, wagmi, viem, wallet flows, contract reads/writes
+Some of the good stuff is private, but the architecture is not a secret. I am happy to talk through the messy bits: tradeoffs, state machines, data flow, product decisions, and the places where the first version was definitely not the final version.
 
-**Product craft:** responsive UI, animation, dashboard UX, mobile interaction patterns, design systems, developer tools
+## Older chapters
 
-## What I care about
+Before this current product-building spiral, I spent a lot of time around Web3 and frontend projects:
 
-- Interfaces that are calm, fast, and easy to trust.
-- Code paths that stay understandable when money, trades, or user data are involved.
-- Product details that make software feel finished, not just functional.
-- Learning in public and writing down implementation notes when they can help another developer.
+- Crowdfunding dApp on Goerli.
+- NFT marketplace with thirdweb and Moralis.
+- ERC20 token interface with Solidity, Hardhat, and ethers.js.
+- BlockTrain, a blockchain learning platform with articles, tutorials, and project guides.
+- AppSecure, where I worked on security-focused product interfaces and bug bounty workflows.
+- Freelance projects in college, including education and mentoring platforms.
 
-Currently preparing for full-stack/frontend/product engineering roles where I can own meaningful product surfaces end to end.
+## Tools I reach for
+
+**Frontend:** React, Next.js, React Native, Expo, TypeScript, Tailwind CSS, shadcn/ui, Radix UI  
+**State/data:** Zustand, Jotai, React Query, Prisma, Drizzle, SQLite, MongoDB, Firebase  
+**Systems:** REST APIs, WebSockets, SSE, auth, local-first storage, exports, background reconciliation  
+**Web3:** Solidity, ethers.js, thirdweb, wagmi, viem, wallet flows, contract reads/writes  
+**Design-ish things:** dashboards, mobile interactions, animation, design systems, developer tools
+
+## Non-code side quests
+
+Trading and investing, lifting, finding good cafes, watching shows/movies, and trying new gadgets with the seriousness of someone pretending it is research.
+
+If you are building something thoughtful, weird, useful, or all three, I would probably enjoy hearing about it.
