@@ -1,66 +1,48 @@
-## Hey 👋, I'm [Harsh Pandey!](https://www.harshkumarpandey.com/) and you've reached my Dev space on the WWW :)
+# Harsh Pandey
 
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.harshkumarpandey.com/) -->
+Full-stack product engineer building polished web, mobile, trading, and Web3 products.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpandey002/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshpandey002)
-[![Dev.to Badge](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshpandey_002/)
-[![Dev.to Badge](https://img.shields.io/badge/Portfolio-030303?style=for-the-badge&logo=HumbleBundle&logoColor=white)](https://www.harshkumarpandey.com/)
+[Portfolio](https://harshpandey.com) · [LinkedIn](https://www.linkedin.com/in/harshpandey002/) · [GitHub](https://github.com/harshpandey002) · [Email](mailto:coding.harshp@gmail.com)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=harshpandey002&color=blue)
+I like taking fuzzy product ideas and turning them into software that feels fast, thoughtful, and reliable. My recent work spans React/Next.js apps, Expo mobile apps, local-first data flows, realtime systems, trading/order tooling, dashboards, and wallet-connected Web3 interfaces.
 
-<img align="right" width="100" alt="" src="assets/rzp.gif" />
+## Selected work
 
-Currently working as freelance dev at [BlockTrain](https://www.blocktrain.info/). I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.
+| Project | What I built | Stack |
+| --- | --- | --- |
+| **Pouch** | Minimalist expense tracker with categories, tags, groups, budgets, calendar views, insights, CSV export, onboarding, and subscription/paywall flows. | Expo, React Native, TypeScript, SQLite, Drizzle, Zustand, RevenueCat |
+| **Algo Trading** | Single-tenant options execution desk for Zerodha Kite with live ticks, candle charts, server-side risk sizing, armed limit entries, stop-loss flows, and order reconciliation. | Next.js, React, TypeScript, Kite Connect, SSE, Jotai, Zustand, Sentry |
+| **LockWars** | Fantasy sports mobile app with auth, multi-step signup, lobbies, lineups, wallet flows, promotions, realtime chat, and matchup state. | Expo, React Native, TypeScript, Firebase, Socket.io, Zustand, Jotai |
+| **Forecast Dashboard** | Discord campaign dashboard for guild onboarding, channel setup, permissions checks, campaign threads, generation credits, and analytics export. | Next.js, TypeScript, Discord API, Prisma, Jotai, TanStack Table |
+| **shadcn Theme Generator** | Public design tool that generates shadcn-compatible light/dark CSS variables from a base color, with live previews and advanced controls. | Next.js, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Jotai |
+| **Numa Swap Interface** | Web3 swap UI for minting NUMA with rETH and redeeming rETH, including wallet connection, allowance checks, approvals, live contract reads, and transaction states. | Next.js, TypeScript, wagmi, viem, Jotai, Tailwind CSS |
 
-Joined Github 3 years ago.
+Some of my strongest projects are private because they are personal tools or client-style builds, but I can walk through architecture, tradeoffs, and code samples during interviews.
 
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+## Earlier work
 
-### Talking about Personal Stuff:
+- Built Web3 projects including a crowdfunding dApp, NFT marketplace, ERC20 token interface, and Push Protocol experiments.
+- Worked on BlockTrain, a blockchain education platform with articles, tutorials, courses, and project guides.
+- Worked at AppSecure on security-focused product interfaces, including bug bounty platform workflows.
+- Started freelancing in college with education and mentoring platforms, learning how to move from ambiguous requirements to shipped software.
 
-- 🛠 &nbsp; At the moment working with NextJS, Solidity, Firebase, Thirdweb.
-- 👀 &nbsp; I am learning Smart Contract Development with solidity.
-- 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/harshpandey002) are genuine.
-- 📝 &nbsp; I have 2 github accounts, [harshpandey002](https://github.com/harshpandey002) and [pandeyharsh1999](https://github.com/pandeyharsh1999).
-- 👾 &nbsp; Fun fact: I get rejected in all interviews(wtf!).
-- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/harshpandey002) or coding.harshp@gmail.com.
-- 🚀 &nbsp; My [Portfolio Website](https://www.harshkumarpandey.com/) is Dope AF!
-<!-- - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help. -->
-<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
-### My Absolute Favorites:
+## Core stack
 
-- 💻 &nbsp; I love to build user interfaces with cool animations.
-- 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: There is a 88% probability that I'll beat you in a badminton and table tennis match :p
+**Frontend:** React, Next.js, React Native, Expo, TypeScript, Tailwind CSS, shadcn/ui, Radix UI
 
-### Weapons:
+**State and data:** Zustand, Jotai, React Query, Prisma, Drizzle, SQLite, MongoDB, Firebase
 
-<a href="#"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=black&color=E34F26"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=c89100"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=black&color=409040"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&color=1f1f1f"/></a>
-<a href="#"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black&color=3a8296"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=lime&labelColor=black&color=236b23"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&labelColor=black&color=1CA1B8"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&&logoColor=white&labelColor=black&color=2E2E2E"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Etherjs-black?style=for-the-badge&logo=ethereum&&logoColor=white&labelColor=black&color=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&&logoColor=white&labelColor=black&color=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Hardhat-black?style=for-the-badge&logo=hardhat&&logoColor=white&labelColor=black&color=white"/></a>
+**Systems:** REST APIs, WebSockets, SSE, auth flows, local-first storage, CSV/export flows, background reconciliation
 
+**Web3:** Solidity, ethers.js, thirdweb, wagmi, viem, wallet flows, contract reads/writes
 
-<a href="#"><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=black&color=red"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/></a>
-<a href="#"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&labelColor=black&color=ff4704"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&labelColor=black&color=eb3471"/></a>
+**Product craft:** responsive UI, animation, dashboard UX, mobile interaction patterns, design systems, developer tools
 
-#
+## What I care about
 
-<div align="center">
+- Interfaces that are calm, fast, and easy to trust.
+- Code paths that stay understandable when money, trades, or user data are involved.
+- Product details that make software feel finished, not just functional.
+- Learning in public and writing down implementation notes when they can help another developer.
 
-### Let's become friends on [Twitter](https://twitter.com/harshpandey002)!
-
-</div>
+Currently preparing for full-stack/frontend/product engineering roles where I can own meaningful product surfaces end to end.
