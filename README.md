@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=180&section=header&text=Hey,%20I'm%20Harsh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Hey, I'm Harsh" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+internet+things;Product+UI+with+a+systems+brain;React+%2B+Next.js+%2B+TypeScript+%2B+Expo;Trading+tools%2C+dashboards%2C+wallets%2C+weird+ideas" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+internet+things;Product+UI+with+a+systems+brain;React+%2B+Next.js+%2B+TypeScript+%2B+Expo;Platforms%2C+trading+tools%2C+dashboards%2C+weird+ideas" alt="Typing intro" />
 
 <br />
 
@@ -23,6 +23,7 @@ Mostly: React, Next.js, TypeScript, Expo, product UI, local-first data, realtime
 <div align="center">
 
 <img src="https://img.shields.io/badge/currently-building%20Pouch-0F172A?style=flat-square&labelColor=111827&color=22C55E" alt="Currently building Pouch" />
+<img src="https://img.shields.io/badge/org%20work-Juice%20Labs-0F172A?style=flat-square&labelColor=111827&color=FF7A1A" alt="Juice Labs" />
 <img src="https://img.shields.io/badge/currently-tuning%20portfolio-0F172A?style=flat-square&labelColor=111827&color=38BDF8" alt="Currently tuning portfolio" />
 <img src="https://img.shields.io/badge/side%20quest-trading%20tools-0F172A?style=flat-square&labelColor=111827&color=F59E0B" alt="Trading tools" />
 <img src="https://img.shields.io/badge/fuel-coffee%20and%20curiosity-0F172A?style=flat-square&labelColor=111827&color=EC4899" alt="Coffee and curiosity" />
@@ -38,6 +39,9 @@ Mostly: React, Next.js, TypeScript, Expo, product UI, local-first data, realtime
 - Writing notes when I finally understand something well enough to explain it.
 
 ## A few things from the workshop
+
+**Juice Labs Platform**  
+Private org work on a production fan-engagement platform for live events: quests, prizes, affiliate codes, workspaces, venue views, dashboards, mobile surfaces, shared packages, API payloads, Prisma-heavy backend flows, and enough monorepo plumbing to keep things interesting.
 
 **Pouch**  
 A warm, minimalist expense tracker for mobile. Categories, tags, groups, budgets, calendar views, insights, CSV export, onboarding, trial/paywall flows, and local SQLite storage. Built with Expo, React Native, TypeScript, Drizzle, Zustand, NativeWind, and RevenueCat.
@@ -81,7 +85,7 @@ Some of the good stuff is private, but the architecture is not a secret. I am ha
 
 **Frontend:** React, Next.js, React Native, Expo, TypeScript, Tailwind CSS, shadcn/ui, Radix UI  
 **State/data:** Zustand, Jotai, React Query, Prisma, Drizzle, SQLite, MongoDB, Firebase  
-**Systems:** REST APIs, WebSockets, SSE, auth, local-first storage, exports, background reconciliation  
+**Systems:** REST APIs, WebSockets, SSE, auth, local-first storage, exports, background reconciliation, ClickHouse, AWS  
 **Web3:** Solidity, ethers.js, thirdweb, wagmi, viem, wallet flows, contract reads/writes  
 **Design-ish things:** dashboards, mobile interactions, animation, design systems, developer tools
 
