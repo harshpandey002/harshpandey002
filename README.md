@@ -24,6 +24,7 @@ Mostly: React, Next.js, TypeScript, Expo, product UI, local-first data, realtime
 
 <img src="https://img.shields.io/badge/currently-building%20Pouch-0F172A?style=flat-square&labelColor=111827&color=22C55E" alt="Currently building Pouch" />
 <img src="https://img.shields.io/badge/org%20work-Juice%20Labs-0F172A?style=flat-square&labelColor=111827&color=FF7A1A" alt="Juice Labs" />
+<img src="https://img.shields.io/badge/shipped%20iOS%20app-Roost-0F172A?style=flat-square&labelColor=111827&color=A3E635" alt="Roost iOS app" />
 <img src="https://img.shields.io/badge/currently-tuning%20portfolio-0F172A?style=flat-square&labelColor=111827&color=38BDF8" alt="Currently tuning portfolio" />
 <img src="https://img.shields.io/badge/side%20quest-trading%20tools-0F172A?style=flat-square&labelColor=111827&color=F59E0B" alt="Trading tools" />
 <img src="https://img.shields.io/badge/fuel-coffee%20and%20curiosity-0F172A?style=flat-square&labelColor=111827&color=EC4899" alt="Coffee and curiosity" />
@@ -42,6 +43,9 @@ Mostly: React, Next.js, TypeScript, Expo, product UI, local-first data, realtime
 
 **Juice Labs Platform**  
 Private org work on a production fan-engagement platform for live events: quests, prizes, affiliate codes, workspaces, venue views, dashboards, mobile surfaces, shared packages, API payloads, Prisma-heavy backend flows, and enough monorepo plumbing to keep things interesting.
+
+**Roost**  
+A shipped iOS food app for discovering restaurants, saving the ones worth future-you's attention, reviewing places, uploading photos, building a foodie profile, and following other people with suspiciously good taste. Expo, React Native, Google Places/Maps, push notifications, UploadThing, Zustand, Express, Prisma, and Postgres.
 
 **Pouch**  
 A warm, minimalist expense tracker for mobile. Categories, tags, groups, budgets, calendar views, insights, CSV export, onboarding, trial/paywall flows, and local SQLite storage. Built with Expo, React Native, TypeScript, Drizzle, Zustand, NativeWind, and RevenueCat.
