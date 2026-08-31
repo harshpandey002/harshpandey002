@@ -47,7 +47,7 @@ Private org work on a production fan-engagement platform for live events: quests
 **Roost**  
 A shipped iOS food app for discovering restaurants, saving the ones worth future-you's attention, reviewing places, uploading photos, building a foodie profile, and following other people with suspiciously good taste. Expo, React Native, Google Places/Maps, push notifications, UploadThing, Zustand, Express, Prisma, and Postgres.
 
-**Pouch**  
+**[Pouch](https://apps.apple.com/us/app/pouch-expense-tracker/id6779575380)**  
 A warm, minimalist expense tracker for mobile. Categories, tags, groups, budgets, calendar views, insights, CSV export, onboarding, trial/paywall flows, and local SQLite storage. Built with Expo, React Native, TypeScript, Drizzle, Zustand, NativeWind, and RevenueCat.
 
 **Algo Trading**  
